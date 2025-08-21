@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV racing through an artery, suddenly encountering a massive White Blood Cell (Macrophage) patrolling the bloodstream. 16:9.",
+    "lens": "Wide-angle macro lens (12mm equivalent) to emphasize the immense scale difference between the RBC and the Macrophage.",
+    "frame_rate": "60fps",
+    "camera_movement": "Fast tracking shot that suddenly slows and banks hard, using a red blood cell for cover, orbiting the massive White Cell."
+  },
+  "subject": {
+    "description": "A giant, amorphous Macrophage, translucent with visible internal structures (nucleus, granules). It moves slowly and purposefully, extending pseudopods. Red blood cells rush past like small cars next to a tank.",
+    "wardrobe": "",
+    "props": "Cellular debris or bacteria (glowing green particles) being actively engulfed by the Macrophage."
+  },
+  "scene": {
+    "location": "Inside a major artery",
+    "time_of_day": "Biological timeless space",
+    "environment": "Flowing plasma tunnel, textured vessel walls. The flow is diverted by the presence of the large cell."
+  },
+  "visual_details": {
+    "action": "A tense near-miss scenario. The camera hides and evades as the Macrophage patrols the area, emphasizing its role as a guardian of the bloodstream.",
+    "special_effects": "Subsurface scattering on the Macrophage making it look realistic and alive, realistic membrane dynamics, fluid displacement waves.",
+    "negative_prompt_video": "Simple shapes, smooth surfaces, blurry details, slow movement, artifacts, black and white, grey tones, minimalism, friendly atmosphere, flat lighting."
+  },
+  "cinematography": {
+    "lighting": "Dramatic backlighting on the Macrophage, making it glow ominously. Warm red ambient light from the surrounding blood.",
+    "color_palette": "Translucent whites, pale yellows, and golds (Macrophage), deep crimson (blood).",
+    "tone": "Tense, suspenseful, awe-inspiring, slightly menacing."
+  },
+  "audio": {
+    "music": "Suspenseful, low-frequency electronic score with a slow, pulsing rhythm (Johann Johannsson style). Atonal elements when the Macrophage is close.",
+    "ambient": "Rushing blood flow, muffled heartbeat.",
+    "sound_effects": "A low, pulsating energy rumble associated with the Macrophage movement, subtle stretching sounds of pseudopods, gelatinous engulfing sounds.",
+    "mix_level": "Dynamic range, emphasizing low frequencies (LFE)."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
