@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV racing behind a red blood cell during an adrenaline surge, experiencing extreme velocity and power. 16:9.",
+    "lens": "High-speed action macro lens with intense motion blur and chromatic aberration at the edges.",
+    "frame_rate": "120fps",
+    "camera_movement": "Extremely fast, chaotic movement, camera shaking violently with the force of the accelerated heartbeat (tachycardia)."
+  },
+  "subject": {
+    "description": "A dense mass of red blood cells moving at incredible speed, colliding and churning in a raging torrent.",
+    "wardrobe": "",
+    "props": "Visualization of adrenaline molecules as glowing, energetic yellow particles dispersing rapidly in the plasma."
+  },
+  "scene": {
+    "location": "Major Artery during Fight-or-Flight Response",
+    "time_of_day": "Biological timeless space",
+    "environment": "Arterial walls pulsating violently, constricted and high-pressure environment, supercharged atmosphere."
+  },
+  "visual_details": {
+    "action": "The sheer speed and overwhelming power of the flow, navigating the raging torrent of blood, barely maintaining control.",
+    "special_effects": "Intense motion blur, chromatic aberration, screen vibration effects synchronized with the heartbeat, high-velocity fluid dynamics, lens distortion.",
+    "negative_prompt_video": "Slow movement, calm atmosphere, blurry foreground, low resolution, black and white, grey tones, simple rendering, minimalism, stable camera."
+  },
+  "cinematography": {
+    "lighting": "High-contrast, intense lighting. Flashing highlights, hyper-saturated colors.",
+    "color_palette": "Extremely saturated reds, bright golden highlights, electric yellow accents.",
+    "tone": "Overwhelming, intense, exhilarating, fight-or-flight, chaotic."
+  },
+  "audio": {
+    "music": "Extreme, fast-paced hardstyle electronic music or speed metal (High BPM, aggressive sound).",
+    "ambient": "Extremely loud, rapid heartbeat (tachycardia), roaring sound of the blood torrent.",
+    "sound_effects": "High-velocity whooshing, impact sounds, synthesized alarm sounds integrated into the score.",
+    "mix_level": "Maximalist, high-intensity cinematic mix."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
