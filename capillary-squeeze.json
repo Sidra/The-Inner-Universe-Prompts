@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV tight squeeze, following a red blood cell as it dramatically deforms to pass through an extremely narrow capillary. 16:9.",
+    "lens": "High-magnification macro probe lens (1000x), very shallow depth of field, emphasizing claustrophobia.",
+    "frame_rate": "60fps",
+    "camera_movement": "Slowed down, pressurized movement, scraping against the walls, navigating extreme tight turns and compressions."
+  },
+  "subject": {
+    "description": "A single red blood cell visibly stretching, bending, and folding. Its membrane appears elastic, textured, and resilient. Cells moving in single file.",
+    "wardrobe": "",
+    "props": "Oxygen molecules visibly diffusing from the cell into the surrounding tissue (glowing cyan particles)."
+  },
+  "scene": {
+    "location": "Capillary Bed, Microcirculation (e.g., muscle tissue)",
+    "time_of_day": "Biological timeless space",
+    "environment": "Extremely tight passage, walls are thin (single-cell layer) and translucent. Dense surrounding tissue visible dimly outside the vessel."
+  },
+  "visual_details": {
+    "action": "The cell struggling and bending. The camera experiences the intimacy and tightness of the environment, emphasizing the vital moment of oxygen delivery.",
+    "special_effects": "Visible deformation physics, subtle light diffusion through tissue, visible diffusion effects.",
+    "negative_prompt_video": "Wide open spaces, fast movement, smooth walls, low detail, blurriness, chromatic aberration, flickering, black and white, grey tones, minimalism."
+  },
+  "cinematography": {
+    "lighting": "High-contrast, dramatic lighting filtering through the thin walls, deep shadows. The cell glows faintly as it releases oxygen.",
+    "color_palette": "Vibrant red transitioning to deeper crimson, pale pink, soft whites, cyan highlights.",
+    "tone": "Claustrophobic, intimate, intense, focused."
+  },
+  "audio": {
+    "music": "Tense, minimalist ambient score. High sustained strings and low pulsating synths (Brian Eno style).",
+    "ambient": "Muffled heartbeat, very faint fluid movement, quiet environment.",
+    "sound_effects": "Scraping sounds, creaking/stretching sounds of the cell membrane. Soft shimmer sound synchronized with oxygen diffusion.",
+    "mix_level": "Intimate, close-mic'd audio."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
