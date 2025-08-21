@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV high-speed race just behind a vibrant, oxygen-rich red blood cell ascending the massive curve of the aortic arch. 16:9.",
+    "lens": "Extreme macro bio-lens with dynamic motion blur and shallow depth of field",
+    "frame_rate": "120fps",
+    "camera_movement": "Rapid ascent, high-velocity tracking shot with sharp banking maneuvers following the curve of the aorta, synchronized with the systolic pulse."
+  },
+  "subject": {
+    "description": "A lead red blood cell, perfectly biconcave and shimmering with a bright cherry-red color. Surrounded by a torrent of other cells and sparkling platelets rushing past at extreme speed.",
+    "wardrobe": "",
+    "props": "Faintly glowing oxygen molecules attached to the hemoglobin."
+  },
+  "scene": {
+    "location": "The Aortic Arch, Human Circulatory System",
+    "time_of_day": "Biological timeless space",
+    "environment": "A massive, pulsating organic tunnel. Walls are highly detailed with textured endothelial cells, showing elasticity and immense strength. Plasma is a warm golden-crimson."
+  },
+  "visual_details": {
+    "action": "Camera weaves between dense clusters of cells, navigating the immense pressure and high-speed flow, dodging turbulence near the branching arteries.",
+    "special_effects": "Realistic fluid dynamics simulation (CFD visualization style), velocity lines, light refraction through plasma, subtle lens flares.",
+    "negative_prompt_video": "Blur, blurry foreground, slow motion, stuttering movement, low resolution, compression artifacts, grey, black and white, minimalism, simple shapes, darkness, cartoonish."
+  },
+  "cinematography": {
+    "lighting": "Dramatic, warm subsurface scattering glow emanating from the blood itself, high-contrast highlights on the vessel walls.",
+    "color_palette": "Rich crimson, vibrant cherry red, warm gold, translucent whites.",
+    "tone": "Exhilarating, epic, intense, immersive."
+  },
+  "audio": {
+    "music": "Fast-paced hybrid orchestral-electronic score, epic Hans Zimmer style, with driving percussion (Taiko drums) and soaring brass.",
+    "ambient": "Deep, thunderous rhythmic thudding of the heartbeat (LUB-DUB), constant roar of pressurized fluid.",
+    "sound_effects": "High-velocity whooshes as cells pass the camera, subtle impact sounds of turbulence.",
+    "mix_level": "Immersive cinematic mix (Dolby Atmos/7.1)."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
