@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV racing behind a red blood cell into an active clotting cascade at a vessel injury site. 16:9.",
+    "lens": "Macro lens with high-speed shutter, capturing the chaotic action.",
+    "frame_rate": "240fps (for extreme slow-motion visualization of platelet activation).",
+    "camera_movement": "Violent, shaky camera movement navigating the turbulent and rapidly obstructing flow. Sudden deceleration upon arrival at the site."
+  },
+  "subject": {
+    "description": "A sudden, violent storm of platelets activating (transforming from smooth discs to spiky, sticky structures) and clumping together. Fibrin strands rapidly weaving a complex, golden net, trapping red blood cells.",
+    "wardrobe": "",
+    "props": "Exposed collagen fibers at the injury site, cellular debris, chemical signals (glowing particles)."
+  },
+  "scene": {
+    "location": "Arterial injury site (micro-tear)",
+    "time_of_day": "Biological timeless space",
+    "environment": "Breached vessel wall, chaotic flow, rapidly forming clot structure. A localized whirlwind of activity."
+  },
+  "visual_details": {
+    "action": "Dodging sticky platelet clumps, navigating through the forming fibrin net, avoiding being trapped in the clot. The speed and efficiency of the process are emphasized.",
+    "special_effects": "Dynamic simulation of clot formation, sticky particle effects, intense turbulence visualization, motion blur.",
+    "negative_prompt_video": "Calm flow, clear path, blurry details, low resolution, flickering, black and white, grey tones, simple rendering, minimalism, slow process."
+  },
+  "cinematography": {
+    "lighting": "Harsh, dramatic, strobe-like lighting highlighting the fibrin strands and the specular highlights on the sticky platelets. Deep shadows.",
+    "color_palette": "Bright crimson (fresh blood), pale yellow/amber/gold (platelets and fibrin), dark burgundy (trapped blood).",
+    "tone": "Violent, chaotic, urgent, life-saving precision."
+  },
+  "audio": {
+    "music": "Fast-paced, chaotic action score with heavy percussion, screeching strings, and complex electronic rhythms (breakbeat style).",
+    "ambient": "Roaring turbulence, muffled sound of tearing tissue.",
+    "sound_effects": "Sticky impact sounds, rapid snapping and whipping sounds as fibrin forms, intense whooshing, cellular activity whine.",
+    "mix_level": "Loud, aggressive, detailed cinematic mix."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
