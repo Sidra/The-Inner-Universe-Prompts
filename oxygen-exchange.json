@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV following a dark, deoxygenated red blood cell through the capillaries surrounding the lung alveoli, witnessing the precise moment of oxygenation. 16:9.",
+    "lens": "Extreme macro bio-lens with high dynamic range, capturing the color shift perfectly.",
+    "frame_rate": "60fps",
+    "camera_movement": "Smooth, gliding movement through the intricate capillary network, panning to the alveolar interface."
+  },
+  "subject": {
+    "description": "Red blood cells undergoing a sudden, dramatic transition from dark burgundy/purple to bright, vibrant cherry red as they absorb oxygen.",
+    "wardrobe": "",
+    "props": "Glowing oxygen molecules (bright white/blue particles) diffusing across the membrane from the alveoli and binding to the cells."
+  },
+  "scene": {
+    "location": "Lung Capillaries/Alveoli",
+    "time_of_day": "Biological timeless space",
+    "environment": "A delicate, intricate network of capillaries wrapped around airy alveolar sacs. The environment is bright, moist, and ethereal."
+  },
+  "visual_details": {
+    "action": "The dramatic, instant color shift of the blood cells. The camera witnesses the revitalization of the blood.",
+    "special_effects": "Visible gas exchange effect (glowing particle diffusion), beautiful light diffusion, shimmering effect on the cell surface during oxygenation.",
+    "negative_prompt_video": "Muted colors, slow transition, dark, murky, blurry details, low resolution, black and white, grey tones, minimalism, fast action."
+  },
+  "cinematography": {
+    "lighting": "Bright, soft, diffused lighting, creating a glowing, airy atmosphere. Ethereal and uplifting. Highlighting the color change.",
+    "color_palette": "Dark burgundy/purple transitioning to vibrant cherry red. Pale pinks, whites, and light blues (lung tissue).",
+    "tone": "Beautiful, rejuvenating, awe-inspiring, serene, vital."
+  },
+  "audio": {
+    "music": "Ethereal, uplifting orchestral score with choir vocals and soft chimes (Vangelis style). Calming and expansive.",
+    "ambient": "Gentle sound of breathing (inhalation and exhalation) synchronized with the environment. Faint fluid movement.",
+    "sound_effects": "Subtle shimmering, sparkling sound synchronized with the oxygenation.",
+    "mix_level": "Clear, spacious, serene audio mix."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
