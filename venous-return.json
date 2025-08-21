@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV gliding behind a deoxygenated red blood cell through the Vena Cava (large vein) on the return journey to the heart. 16:9.",
+    "lens": "Wide-angle macro lens, capturing the scale and majesty of the large vein.",
+    "frame_rate": "30fps",
+    "camera_movement": "Slow, smooth, majestic gliding movement. Steady and calming tracking shot."
+  },
+  "subject": {
+    "description": "Dark, deoxygenated red blood cells (deep burgundy/bluish tint) flowing smoothly in a wide, dense stream. The pace is slower and lower pressure than arteries.",
+    "wardrobe": "",
+    "props": "Carbon dioxide molecules faintly visible as dissolving particles."
+  },
+  "scene": {
+    "location": "Vena Cava (Large Vein)",
+    "time_of_day": "Biological timeless space",
+    "environment": "A wide, majestic tunnel. Smoother walls than arteries, darker environment. Passing through delicate venous valves that prevent backflow."
+  },
+  "visual_details": {
+    "action": "Smooth gliding flow back towards the heart. The journey feels relaxing yet epic, a grand return.",
+    "special_effects": "Subtle color grading to emphasize the bluish tint of venous blood. Detailed visualization of the venous valves opening and closing gently.",
+    "negative_prompt_video": "Fast movement, turbulence, bright red colors, narrow passage, arterial environment, blurry details, low resolution, black and white, grey tones, minimalism."
+  },
+  "cinematography": {
+    "lighting": "Low-key lighting, darker atmosphere, subtle highlights on the vessel walls and the flowing cells. A sense of depth and tranquility.",
+    "color_palette": "Deep burgundy, dark reds, purples, subtle blue tint.",
+    "tone": "Relaxing, majestic, epic journey, tranquil, grand."
+  },
+  "audio": {
+    "music": "Slow, grand orchestral score with a steady, flowing rhythm. Deep strings and low brass creating a sense of majesty and calm.",
+    "ambient": "Deep, slow rushing fluid sound. Distant, slow heartbeat.",
+    "sound_effects": "Gentle whooshing sounds. Soft sounds of the venous valves closing.",
+    "mix_level": "Immersive, deep, spacious audio mix."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
