@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV navigating through a coronary artery severely narrowed by jagged cholesterol deposits and plaque buildup (Atherosclerosis). 16:9.",
+    "lens": "Macro probe lens, emphasizing the tight space and rough, gritty textures.",
+    "frame_rate": "60fps",
+    "camera_movement": "Tight, evasive maneuvering through the restricted maze of plaque. High-velocity movement through the bottleneck."
+  },
+  "subject": {
+    "description": "Jagged, yellowish, unhealthy-looking cholesterol deposits and plaque protruding dangerously into the vessel. Red blood cells squeezing through the narrow path in a turbulent stream.",
+    "wardrobe": "",
+    "props": "Inflammatory cells (foam cells) embedded in the plaque. Eddy currents around the blockage."
+  },
+  "scene": {
+    "location": "Coronary Artery (Diseased State)",
+    "time_of_day": "Biological timeless space",
+    "environment": "A once smooth tunnel now constricted and hazardous. The walls appear inflamed, damaged, and rigid."
+  },
+  "visual_details": {
+    "action": "Squeezing through the tight restrictions, avoiding collisions with the jagged plaque, navigating the intense turbulent flow. A dangerous obstacle course.",
+    "special_effects": "Realistic, detailed rendering of plaque texture (gritty, fatty deposits). Turbulent fluid dynamics in restricted space. Debris breaking off the plaque.",
+    "negative_prompt_video": "Smooth walls, wide open path, healthy appearance, blurry details, low resolution, black and white, grey tones, simple shapes, minimalism, calm flow."
+  },
+  "cinematography": {
+    "lighting": "Harsh, high-contrast lighting emphasizing the jagged textures and the narrowed passage. A sickly, yellowish glow on the plaque.",
+    "color_palette": "Deep red (blood), sickly yellows, off-whites, and browns (plaque). Angry reds (inflammation).",
+    "tone": "Dangerous, claustrophobic, unhealthy, urgent, thrilling."
+  },
+  "audio": {
+    "music": "Tense, discordant electronic score with a driving, anxious rhythm (e.g., aggressive techno or drum and bass). Distorted synths.",
+    "ambient": "Turbulent, restricted fluid sound (high-pitched whistling sound due to constriction). Loud, strained heartbeat.",
+    "sound_effects": "Scraping, grinding sounds as the camera passes close to the plaque. Intense, pressurized whooshing.",
+    "mix_level": "Close, intense, aggressive audio mix."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
