@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV ascending the Carotid Artery and entering the intricate, delicate network of the brain's blood vessels (Circle of Willis and beyond). 16:9.",
+    "lens": "High-resolution macro lens, capturing fine detail, complexity, and elegance.",
+    "frame_rate": "60fps",
+    "camera_movement": "Smooth, elegant ascent, followed by complex branching maneuvers through the cerebral arteries. Awe-inspiring navigation."
+  },
+  "subject": {
+    "description": "Vibrant, oxygen-rich red blood cells flowing rapidly in a highly organized manner. The vessels are pristine and delicate.",
+    "wardrobe": "",
+    "props": "Neurons and glial cells visible in the surrounding tissue, subtly pulsating with bio-electrical activity (faint sparks and waves)."
+  },
+  "scene": {
+    "location": "Cerebral Arteries and Brain Tissue",
+    "time_of_day": "Biological timeless space",
+    "environment": "An incredibly complex, dense, and delicate network of vessels. The surrounding brain tissue is active and mesmerizing. The Blood-Brain Barrier visualized as a subtle shimmering interface."
+  },
+  "visual_details": {
+    "action": "The camera navigates the elegant curves and tight bifurcations of the cerebral arteries, emphasizing the constant, high demand for blood flow and the complexity of the network.",
+    "special_effects": "Faint electrical impulses in the surrounding neurons, high detail texture mapping of the brain tissue, subtle visualization of the blood-brain barrier.",
+    "negative_prompt_video": "Simple structures, dull colors, slow movement, blur, low detail, darkness, grey, black and white, minimalism, chaos, damaged tissue."
+  },
+  "cinematography": {
+    "lighting": "Bright, ethereal lighting. A sense of clarity and enlightenment. Highlights on the shimmering vessels and the active neurons.",
+    "color_palette": "Bright cherry red, gold, silver, soft blues and whites (neural activity), pale pinks and greys (brain tissue).",
+    "tone": "Majestic, intricate, vital, intellectual, elegant, awe-inspiring."
+  },
+  "audio": {
+    "music": "A sophisticated, complex orchestral-electronic hybrid score (Jon Hopkins style). Ethereal melodies interwoven with intricate rhythmic patterns, suggesting complex thought processes.",
+    "ambient": "Gentle, high-velocity fluid movement. Faint hum and crackle of bio-electrical activity.",
+    "sound_effects": "Soft chimes, subtle electrical zaps synchronized with neuron firing.",
+    "mix_level": "Crystal clear, detailed, and immersive."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
