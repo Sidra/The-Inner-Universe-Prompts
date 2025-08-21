@@ -1,0 +1,39 @@
+{
+  "shot": {
+    "composition": "POV approaching the massive Mitral Valve in the heart, experiencing the immense pressure and sudden release. 16:9.",
+    "lens": "Wide-angle macro bio-lens to emphasize the cathedral-like scale of the heart chamber.",
+    "frame_rate": "120fps, with variable speed ramping (slow motion during valve closure).",
+    "camera_movement": "Slow build-up in the atrium, then a sudden, explosive acceleration through the valve opening, slight backward look as it slams shut."
+  },
+  "subject": {
+    "description": "Immense valve leaflets (fibrous, powerful tissue) opening dramatically and then slamming shut with incredible force. A dense stream of red blood cells being pumped through.",
+    "wardrobe": "",
+    "props": "Chordae tendineae (heartstrings) visible, taut and strong, anchoring the valve like massive cables."
+  },
+  "scene": {
+    "location": "Left Atrium and Ventricle of the Human Heart",
+    "time_of_day": "Biological timeless space",
+    "environment": "A vast, muscular chamber. The walls are thick, powerful, and constantly contracting. The scale is immense."
+  },
+  "visual_details": {
+    "action": "The camera is buffeted by the sudden change in pressure, experiencing the raw power of the heartbeat from the inside. The intense rush of blood through the gateway.",
+    "special_effects": "High-pressure fluid dynamics, shockwaves visualization upon valve closure, realistic tissue deformation of the valve, intense motion blur during acceleration.",
+    "negative_prompt_video": "Slow movement, gentle closing, blurry textures, low resolution, compression artifacts, black and white, grey tones, minimalism, weak appearance, quiet."
+  },
+  "cinematography": {
+    "lighting": "Dramatic, chiaroscuro lighting from within the chamber. Deep shadows, with bright highlights on the edges of the valve leaflets and the rushing blood.",
+    "color_palette": "Deep saturated reds, crimson, mahogany, stark white (valve tissue/heartstrings).",
+    "tone": "Epic, powerful, rhythmic, overwhelming."
+  },
+  "audio": {
+    "music": "Powerful, rhythmic orchestral score dominated by massive percussion (e.g., Taiko drums) synchronized perfectly with the heartbeat, building to a crescendo.",
+    "ambient": "Loud, pressurized fluid movement. The thunderous sound of the heartbeat echoing.",
+    "sound_effects": "Massive, deep 'LUB-DUB' sound. The loud, resonant SNAP of the valve closing. Extreme whooshing during passage.",
+    "mix_level": "Extremely dynamic range, powerful low-end frequencies (LFE)."
+  },
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
